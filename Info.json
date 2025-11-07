@@ -3,7 +3,7 @@
     "DisplayName": "Fix for Caged Animal's Perception",
     "GameVersion": 1.2,
     "Version": 1.0,
-    "Desc": "Part of iguana's iguana_acs_fix mod. Repacked the caged animal perception fix into a standalone mod for use on mobile platform.",
+    "Desc": "Fixes the bug where an awakened animal's perception is fixed at 10 when it comes from cages. Originally part of iguana's iguana_acs_fix mod.\n\n修复从笼子里开出的开智期动物固定拥有10神识的问题"
     "Author": "iguana, Jai",
 	"Tags": [ "Function" ],
 	"IncreasedDesc": "",
