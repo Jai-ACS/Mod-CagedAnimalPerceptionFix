@@ -1,7 +1,7 @@
 {
     "Name": "Jai_CagedAnimalPerceptionFix",
     "DisplayName": "Fix for Caged Animal's Perception",
-    "GameVersion": 1.23,
+    "GameVersion": 1.2.0,
     "Version": 1.0,
     "Desc": "Part of iguana's iguana_acs_fix mod. Repacked the caged animal perception fix into a standalone mod for use on mobile platform.",
     "Author": "iguana, Jai",
